@@ -1,0 +1,17 @@
+{
+  "name": "cursach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.105.0",
+    "bootstrap": "^5.2.0-beta1",
+    "jquery": "^3.6.0"
+  }
+}
